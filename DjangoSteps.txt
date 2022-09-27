@@ -1,0 +1,8 @@
+# Django Steps
+
+#1. Create a Django Project.
+#2. Runserver.
+#3. Create a Django App.
+#4. Register a App in settings.py.
+#5. Create a fields in models.py.
+#6. 
